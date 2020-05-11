@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142459236957",
+    "firebase_url": "https://emarkethamzanwadi.firebaseio.com",
+    "project_id": "emarkethamzanwadisupplier",
+    "storage_bucket": "emarkethamzanwadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142459236957:android:7c058fc364e1e9e3ef13b4",
+        "android_client_info": {
+          "package_name": "id.lombokit.emarkethamzanwadisupplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142459236957-bi470mld3j4he04chmq9p7fa3ah5ga6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lombokit.emarkethamzanwadisupplier",
+            "certificate_hash": "c2f98797504720da6c199b5aa2bc3388b1a811c8"
+          }
+        },
+        {
+          "client_id": "142459236957-t3vcegiscolbtqg9gh9jkaef9su0jtd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYRtaKDycrERKQ9lSekCSfFKQcwKL9X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142459236957-t3vcegiscolbtqg9gh9jkaef9su0jtd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
